@@ -1,0 +1,4 @@
+feedparser
+mdutils
+markdownify
+
